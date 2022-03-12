@@ -4,4 +4,3 @@
 
 ![An aerial, night time view of Montreal.](images/aerialMTL_1.png)
 
-Success 2
