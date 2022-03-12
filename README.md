@@ -1,5 +1,4 @@
-### About Me    |   Portfolio    |   Tech   |   Academics
-
+### [About Me] (https://lachlanstewart.github.io/About-Me/)    |   [Portfolio] (https://lachlanstewart.github.io/Portfolio/)    |   [Tech] (https://lachlanstewart.github.io/Tech/)  |   [Academics] (https://lachlanstewart.github.io/Academics/)
 
 
 
