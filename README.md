@@ -1,11 +1,11 @@
-## Rocketry 
-> Passion turned professional
+## About Me 
 
-## Travel 
-> Chasing new facets of the human experience
+## Portfolio
+> Like a resume, but cooler!
+
+## Tech 
+> Technical skills I've developed
 
 ## Academics
-> My favourite discoveries from my coursework and research
+> A synopsis of my classes as well as quirky things I enjoyed learning 
 
-## Wisdom
-> An ever-growing index of clever and introspective thoughts
