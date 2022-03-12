@@ -1,4 +1,4 @@
-## About Me 
+### About Me  |  Portfolio  |  Tech  |  Academics
 
 ## Portfolio
 > Like a resume, but cooler!
