@@ -1,23 +1,3 @@
-### [About Me](https://lachlanstewart.github.io/About-Me/)       [Portfolio](https://lachlanstewart.github.io/Portfolio/)       [Tech](https://lachlanstewart.github.io/Tech/)     [Academics](https://lachlanstewart.github.io/Academics/)
+### [About Me](https://lachlanstewart.github.io/About-Me/ "Who am I?")       |    [Portfolio](https://lachlanstewart.github.io/Portfolio/ "Like a resume, but cooler!")       |    [Tech](https://lachlanstewart.github.io/Tech/ "A summary of my technical skills")     |    [Academics](https://lachlanstewart.github.io/Academics/ "All my classes and favourite coursework in one place")
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Portfolio
-> Like a resume, but cooler!
-
-## Tech 
-> Technical skills I've developed
-
-## Academics
-> A synopsis of my classes as well as quirky things I enjoyed learning 
-
+![My favourite aspect of flight - the stunning views!]("C:\Users\lachl\OneDrive\Desktop\Website\Pics\PXL_20210906_022521055.jpg" "Montreal seen from the clouds")
